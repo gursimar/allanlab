@@ -34,6 +34,14 @@
   education1: Attention Models
   education2: Visual Dialog/QA
 
+- name: Mohit Bajaj 
+  photo: mohit.jpg
+  info: Masters Student
+  email: mbajaj01@cs.ubc.ca
+  number_educ: 2
+  education1: Video understanding
+  education2: Temporal-Spatial localization of phrases in images/videos
+  
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
