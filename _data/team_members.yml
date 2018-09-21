@@ -89,12 +89,11 @@
   education2: Computer Vision
   
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:  
-  education2:  
-  education3: 
-  education4:  
+- name: "Bo Zhao"
+  photo: zhaobo.jpg
+  info: Postdoctoral Research Fellow
+  email: bzhao03@cs.ubc.ca
+  webpage: http://www.zhaobo.me
+  number_educ: 2
+  education1: Computer Vision 
+  education2: Deep Learning
